@@ -1,0 +1,3 @@
+[submodule "example-java"]
+	path = example-java
+	url = https://github.com/codecov/example-java.git
